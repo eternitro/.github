@@ -1,4 +1,4 @@
-## Get Discord Nitro for Less with Eternitro’s Prepaid Cards — Affordable Prices, No Strings Attached!
+### Get Discord Nitro for Less with Eternitro’s Prepaid Cards — Affordable Prices, No Strings Attached!
 
 **Eternitro is a platform-specific prepaid card provider that enables Discord users to access Nitro subscriptions at more affordable prices.**
 
