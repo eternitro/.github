@@ -1,3 +1,9 @@
+<p align="center">
+  <a aria-label="eternitro logo" href="https://eternitro.com">
+    <img src="https://i.imgur.com/3oGlcMS.png" width="420" />
+  </a>
+</p>
+
 ### Get Discord Nitro for Less with Eternitro’s Prepaid Cards — Affordable Prices, No Strings Attached!
 
 **Eternitro is a platform-specific prepaid card provider that enables Discord users to access Nitro subscriptions at more affordable prices.**
@@ -18,10 +24,19 @@ Eternitro not only provides a pricing advantage but also prioritizes **security*
 
 Eternitro leverages regional pricing differences in a **legal**, **secure**, and **affordable** way, making digital subscriptions more accessible and cost-effective.
 
-[Discord](https://discord.gg/mFjuRpKrBw)
+<p align="center">
+  <a href="https://discord.gg/mFjuRpKrBw">
+    <img src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=white" />
+  </a>
+  <a href="https://x.com/eternitro">
+    <img src="https://img.shields.io/badge/X-001821?logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/eternitro">
+    <img src="https://img.shields.io/badge/Instagram-c13584?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.eternitro.com">
+    <img src="https://img.shields.io/badge/Website_-Website?style=flat&color=006101" />
+  </a>
+</p>
 
-[Website](https://eternitro.com/)
 
-[Instagram](https://www.instagram.com/eternitro)
-
-[X](https://x.com/eternitro)
